@@ -10,3 +10,8 @@ O código está todo comentado, facilitando assim a edição das perguntas ao go
 Os únicos comando além dos básicos foram das condicionais if e else.
 
 
+# Versão 1.4
+
+*O que há de novo?*
+
+
