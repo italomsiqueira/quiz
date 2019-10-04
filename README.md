@@ -14,4 +14,6 @@ Os únicos comando além dos básicos foram das condicionais if e else.
 
 *O que há de novo?*
 
+Duas perguntas consertadas;
+Sistema de exibição final de pontuação, atualizado tamanho da estrela.
 
